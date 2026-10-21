@@ -1,7 +1,7 @@
 # Advanced Java Lab Project - ShopSphere
 
-**Student Name:** YASH CHANDEL  
-**Roll No:** 24EGJIT058 
+**Student Name:** Rishabh Dadhich 
+**Roll No:** 24EGJAD042
 **Semester:** 5th Semester (B.Tech CSE / AI & DS)  
 **College:** Global Institute of Technology (GIT), Jaipur  
 **University:** Rajasthan Technical University (RTU), Kota  
